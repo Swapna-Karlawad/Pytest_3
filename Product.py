@@ -12,5 +12,5 @@ if __name__ == "__main__":
     prd_id = "1001"
     quantity = "1"
     price = "10000"
-    
+
     print(product_details(name, prd_id, quantity, price))
